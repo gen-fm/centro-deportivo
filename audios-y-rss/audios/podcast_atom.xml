@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Central Deportivo</title>
-        <link></link>
+        <link>https://ivovazquez.github.io/central-deportivo/</link>
         <description>Es un espacio para dar a conocer historias de deportistas, dirigentes y clubes. En cada episodio vamos a descubrir el recorrido detrás de cada competencia y logro, como es la vida institucional y la conducción de los diferentes espacios deportivos.</description>
         <language>es-ar</language>
         <ttl>1440</ttl>
-        <lastBuildDate>Sun, 24 Mar 2019 20:34:39 +0300</lastBuildDate>
+        <lastBuildDate>Sun, 24 Mar 2019 20:43:05 +0300</lastBuildDate>
         <author>Gen Podcast</author>
         <image>
             <title>Central Deportivo</title>
-            <url></url>
-            <link></link>
+            <url>https://ivovazquez.github.io/central-deportivo/audios-y-rss/audios/s01e02-centraldep.png</url>
+            <link>https://ivovazquez.github.io/central-deportivo/audios-y-rss/audios/s01e02-centraldep.png</link>
         </image>
 
         

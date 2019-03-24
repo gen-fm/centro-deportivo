@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0">
 	<channel>
 		<title> Central Deportivo</title>
-		<link></link>
+		<link>https://ivovazquez.github.io/central-deportivo/</link>
 		<language>es-ar</language>
 		<copyright></copyright>
 		<googleplay:author>Gen Podcast</googleplay:author>
 		<googleplay:email>ivo@data99.com.ar</googleplay:email>
-		<googleplay:image href=''/>
+		<googleplay:image href='https://ivovazquez.github.io/central-deportivo/audios-y-rss/audios/s01e02-centraldep.png'/>
 		<googleplay:description>Es un espacio para dar a conocer historias de deportistas, dirigentes y clubes. En cada episodio vamos a descubrir el recorrido detrás de cada competencia y logro, como es la vida institucional y la conducción de los diferentes espacios deportivos.</googleplay:description>
 		<googleplay:explicit>No</googleplay:explicit>
 		<!-- <googleplay:category text="CATEGORY NAME HERE"/> -->
