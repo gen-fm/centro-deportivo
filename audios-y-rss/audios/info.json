@@ -1,0 +1,25 @@
+{
+    "titulo": "Central Deportivo",
+    "link": "",
+    "descripcion": "Es un espacio para dar a conocer historias de deportistas, dirigentes y clubes. En cada episodio vamos a descubrir el recorrido detrás de cada competencia y logro, como es la vida institucional y la conducción de los diferentes espacios deportivos.",
+    "lenguaje": "es-ar",
+    "ttl_minutos": "1440",
+    "autor": "Gen Podcast",
+    "autor_url": "https://genfm.com.ar/",
+    "imagen_titulo": "Central Deportivo",
+    "imagen_url": "",
+    "imagen_link": "",
+    "webmaster_email": "ivo@data99.com.ar",
+    "editor_email": "radiogen107.5@gmail.com",
+    "twitter": "https://twitter.com/LaGenFm",
+    "instagram": "https://www.instagram.com/gen.fm/",
+    "youtube": "",
+    "linkedin": "",
+    "spotify": "",
+    "itunes": null,
+    "GA_TRACKING_ID": "",
+    "itunes_categories": [
+        ["Politics"],
+        ["Technology", "Information Technology"]
+    ]
+}
