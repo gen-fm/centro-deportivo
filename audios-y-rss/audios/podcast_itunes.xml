@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+    <channel>
+        <title>Central Deportivo</title>
+        <link></link>
+        <description>Es un espacio para dar a conocer historias de deportistas, dirigentes y clubes. En cada episodio vamos a descubrir el recorrido detrás de cada competencia y logro, como es la vida institucional y la conducción de los diferentes espacios deportivos.</description>
+        <itunes:summary>Es un espacio para dar a conocer historias de deportistas, dirigentes y clubes. En cada episodio vamos a descubrir el recorrido detrás de cada competencia y logro, como es la vida institucional y la conducción de los diferentes espacios deportivos.</itunes:summary>
+        <itunes:author>Gen Podcast</itunes:author>
+        
+            <itunes:category text="Politics"></itunes:category>
+        
+            <itunes:category text="Technology"><itunes:category text="Information Technology"/></itunes:category>
+        
+        <language>es-ar</language>
+        <ttl>1440</ttl>
+        <lastBuildDate>Sun, 24 Mar 2019 20:34:39 +0300</lastBuildDate>
+
+        <image>
+            <title>Central Deportivo</title>
+            <url></url>
+            <link></link>
+        </image>
+        <itunes:image href="" />
+        <itunes:explicit>No</itunes:explicit>
+        
+        <webMaster>ivo@data99.com.ar</webMaster>
+        
+
+        
+        <managingEditor>radiogen107.5@gmail.com</managingEditor>
+        
+
+        
+        <item>
+            <title>Entrevista a Leonardo Bigi</title>
+            <guid>https://ivovazquez.github.io/central-deportivo/audios-y-rss/s01e01-centraldep.html</guid>
+            <link>https://ivovazquez.github.io/central-deportivo/audios-y-rss/s01e01-centraldep.html</link>
+            <pubDate>Wed, 20 Mar 2019 19:00:00 +0300</pubDate>
+            <description><![CDATA[Fue jugador y entrenador del Club Universitario Córdoba. A través de la  Fundación Pueblo Rugby, desembarcó con un proyecto educativo y de inclusión en Villa Libertador. Así nació El Villa Libertador Rugby Club, que cumple más de 10 años de vida.
+            <br />Ideas: <ul>
+            </ul>]]>
+            </description>
+            <itunes:summary>Fue jugador y entrenador del Club Universitario Córdoba. A través de la  Fundación Pueblo Rugby, desembarcó con un proyecto educativo y de inclusión en Villa Libertador. Así nació El Villa Libertador Rugby Club, que cumple más de 10 años de vida.</itunes:summary>
+            
+            <enclosure url="https://ivovazquez.github.io/central-deportivo/audios-y-rss/audios/s01e01-centraldep.mp3" length="30552832" type="audio/mpeg"/>
+
+            <itunes:image href="https://ivovazquez.github.io/central-deportivo/audios-y-rss/audios/s01e01-centraldep.png" />
+
+        </item>
+        
+        <item>
+            <title>Entrevista a Rubén Bustos</title>
+            <guid>https://ivovazquez.github.io/central-deportivo/audios-y-rss/s01e02-centraldep.html</guid>
+            <link>https://ivovazquez.github.io/central-deportivo/audios-y-rss/s01e02-centraldep.html</link>
+            <pubDate>Fri, 22 Mar 2019 19:00:00 +0300</pubDate>
+            <description><![CDATA[Su relación con la Natación lo llevó a tener una trayectoria de más de 30 años ligado a la especialidad. Fue representante de distintas federaciones en competencias sudamericanas, panamericanas y mundiales. Durante su mandato fue una etapa gloriosa de la Natación Cordobesa, con exponentes como José Meolans y Georgina Bardach.
+            <br />Ideas: <ul>
+            </ul>]]>
+            </description>
+            <itunes:summary>Su relación con la Natación lo llevó a tener una trayectoria de más de 30 años ligado a la especialidad. Fue representante de distintas federaciones en competencias sudamericanas, panamericanas y mundiales. Durante su mandato fue una etapa gloriosa de la Natación Cordobesa, con exponentes como José Meolans y Georgina Bardach.</itunes:summary>
+            
+            <enclosure url="https://ivovazquez.github.io/central-deportivo/audios-y-rss/audios/s01e02-centraldep.mp3" length="27864012" type="audio/mpeg"/>
+
+            <itunes:image href="https://ivovazquez.github.io/central-deportivo/audios-y-rss/audios/s01e02-centraldep.png" />
+
+        </item>
+        
+
+    </channel>
+</rss>
