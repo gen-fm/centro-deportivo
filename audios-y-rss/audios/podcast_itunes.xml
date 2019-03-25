@@ -6,6 +6,12 @@
         <description>Es un espacio para dar a conocer historias de deportistas, dirigentes y clubes. En cada episodio vamos a descubrir el recorrido detrás de cada competencia y logro, como es la vida institucional y la conducción de los diferentes espacios deportivos.</description>
         <itunes:summary>Es un espacio para dar a conocer historias de deportistas, dirigentes y clubes. En cada episodio vamos a descubrir el recorrido detrás de cada competencia y logro, como es la vida institucional y la conducción de los diferentes espacios deportivos.</itunes:summary>
         <itunes:author>Gen Podcast</itunes:author>
+
+        <itunes:owner>
+            <itunes:name>Gen Podcast</itunes:name>
+            <itunes:email>radiogen107.5@gmail.com</itunes:email>
+        </itunes:owner>
+        
         
             <itunes:category text="Politics"></itunes:category>
         
@@ -13,7 +19,7 @@
         
         <language>es-ar</language>
         <ttl>1440</ttl>
-        <lastBuildDate>Sun, 24 Mar 2019 20:55:09 +0300</lastBuildDate>
+        <lastBuildDate>Sun, 24 Mar 2019 21:10:26 +0300</lastBuildDate>
 
         <image>
             <title>Central Deportivo</title>

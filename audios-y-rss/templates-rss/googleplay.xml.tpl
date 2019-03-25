@@ -5,6 +5,12 @@
 		<link>{{ link }}</link>
 		<language>{{ lenguaje }}</language>
 		<copyright></copyright>
+
+		<itunes:owner>
+            <itunes:name>{{ autor }}</itunes:name>
+            <itunes:email>{{ editor_email }}</itunes:email>
+        </itunes:owner>
+        
 		<googleplay:author>{{ autor }}</googleplay:author>
 		<googleplay:email>{{ webmaster_email }}</googleplay:email>
 		<googleplay:image href='{{ imagen_url }}'/>

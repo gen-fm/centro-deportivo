@@ -5,6 +5,12 @@
 		<link>https://ivovazquez.github.io/central-deportivo/</link>
 		<language>es-ar</language>
 		<copyright></copyright>
+
+		<itunes:owner>
+            <itunes:name>Gen Podcast</itunes:name>
+            <itunes:email>radiogen107.5@gmail.com</itunes:email>
+        </itunes:owner>
+        
 		<googleplay:author>Gen Podcast</googleplay:author>
 		<googleplay:email>ivo@data99.com.ar</googleplay:email>
 		<googleplay:image href='https://ivovazquez.github.io/central-deportivo/img-cuadrada.png'/>

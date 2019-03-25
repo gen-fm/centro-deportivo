@@ -14,6 +14,11 @@
             <link>{{ imagen_link }}</link>
         </image>
 
+        <itunes:owner>
+            <itunes:name>{{ autor }}</itunes:name>
+            <itunes:email>{{ editor_email }}</itunes:email>
+        </itunes:owner>
+
         {% if webmaster_email %}
         <webMaster>{{ webmaster_email }}</webMaster>
         {% endif %}
