@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0">
+<rss version="2.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
 	<channel>
 		<title> Central Deportivo</title>
 		<link>https://ivovazquez.github.io/central-deportivo/</link>
@@ -10,7 +10,7 @@
             <itunes:name>Gen Podcast</itunes:name>
             <itunes:email>radiogen107.5@gmail.com</itunes:email>
         </itunes:owner>
-        
+
 		<googleplay:author>Gen Podcast</googleplay:author>
 		<googleplay:email>ivo@data99.com.ar</googleplay:email>
 		<googleplay:image href='https://ivovazquez.github.io/central-deportivo/img-cuadrada.png'/>
