@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
 	<channel>
-		<title> Central Deportivo</title>
-		<link>https://ivovazquez.github.io/central-deportivo/</link>
+		<title> Centro Deportivo</title>
+		<link>https://gen-fm.github.io/centro-deportivo/</link>
 		<language>es-ar</language>
 		<copyright></copyright>
 
@@ -13,7 +13,7 @@
 
 		<googleplay:author>Gen Podcast</googleplay:author>
 		<googleplay:email>ivo@data99.com.ar</googleplay:email>
-		<googleplay:image href='https://ivovazquez.github.io/central-deportivo/img-cuadrada.png'/>
+		<googleplay:image href='https://gen-fm.github.io/centro-deportivo/img-cuadrada.png'/>
 		<googleplay:description>Es un espacio para dar a conocer historias de deportistas, dirigentes y clubes. En cada episodio vamos a descubrir el recorrido detrás de cada competencia y logro, como es la vida institucional y la conducción de los diferentes espacios deportivos.</googleplay:description>
 		<googleplay:explicit>No</googleplay:explicit>
 		<!-- <googleplay:category text="CATEGORY NAME HERE"/> -->
@@ -30,20 +30,6 @@
             <enclosure url="https://ivovazquez.github.io/central-deportivo/audios-y-rss/audios/s01e01-centraldep.mp3" length="30552832" type="audio/x-mp3"/>
 			<guid>https://ivovazquez.github.io/central-deportivo/audios-y-rss/s01e01-centraldep.html</guid>
 			<pubDate>Wed, 20 Mar 2019 19:00:00 +0300</pubDate>
-		</item>
-        
-        <item>
-			<title>Entrevista a Rubén Bustos</title>
-			<googleplay:description><![CDATA[Su relación con la Natación lo llevó a tener una trayectoria de más de 30 años ligado a la especialidad. Fue representante de distintas federaciones en competencias sudamericanas, panamericanas y mundiales. Durante su mandato fue una etapa gloriosa de la Natación Cordobesa, con exponentes como José Meolans y Georgina Bardach.
-            <br />Ideas: <ul>
-            </ul>]]>
-			 </googleplay:description>
-			<googleplay:author>Gen Podcast</googleplay:author>
-			<googleplay:image href='https://ivovazquez.github.io/central-deportivo/audios-y-rss/audios/s01e02-centraldep.png'/>
-			<googleplay:explicit>No</googleplay:explicit>
-            <enclosure url="https://ivovazquez.github.io/central-deportivo/audios-y-rss/audios/s01e02-centraldep.mp3" length="27864012" type="audio/x-mp3"/>
-			<guid>https://ivovazquez.github.io/central-deportivo/audios-y-rss/s01e02-centraldep.html</guid>
-			<pubDate>Fri, 22 Mar 2019 19:00:00 +0300</pubDate>
 		</item>
         
 	</channel>
