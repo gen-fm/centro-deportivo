@@ -6,7 +6,7 @@
         <description>Es un espacio para dar a conocer historias de deportistas, dirigentes y clubes. En cada episodio vamos a descubrir el recorrido detrás de cada competencia y logro, como es la vida institucional y la conducción de los diferentes espacios deportivos.</description>
         <language>es-ar</language>
         <ttl>1440</ttl>
-        <lastBuildDate>Wed, 03 Apr 2019 20:38:58 +0300</lastBuildDate>
+        <lastBuildDate>Wed, 03 Apr 2019 21:26:53 +0300</lastBuildDate>
         <author>Gen Podcast</author>
         <image>
             <title>Centro Deportivo</title>
@@ -16,7 +16,7 @@
 
         <itunes:owner>
             <itunes:name>Gen Podcast</itunes:name>
-            <itunes:email>radiogen107.5@gmail.com</itunes:email>
+            <itunes:email>genpodcasts@gmail.com</itunes:email>
         </itunes:owner>
 
         
@@ -24,26 +24,26 @@
         
 
         
-        <managingEditor>radiogen107.5@gmail.com</managingEditor>
+        <managingEditor>genpodcasts@gmail.com</managingEditor>
         
 
         
         <item>
             <title>Entrevista a Leonardo Bigi</title>
-            <guid>https://ivovazquez.github.io/central-deportivo/audios-y-rss/s01e01-centraldep.html</guid>
-            <link>https://ivovazquez.github.io/central-deportivo/audios-y-rss/s01e01-centraldep.html</link>
+            <guid>https://gen-fm.github.io/centro-deportivo/audios-y-rss/s01e01-centraldep.html</guid>
+            <link>https://gen-fm.github.io/centro-deportivo/audios-y-rss/s01e01-centraldep.html</link>
             <pubDate>Wed, 20 Mar 2019 19:00:00 +0300</pubDate>
             <author>Gen Podcast</author>
             <description><![CDATA[Fue jugador y entrenador del Club Universitario Córdoba. A través de la  Fundación Pueblo Rugby, desembarcó con un proyecto educativo y de inclusión en Villa Libertador. Así nació El Villa Libertador Rugby Club, que cumple más de 10 años de vida.
             <br />Ideas: <ul>
             </ul>]]></description>
             
-            <enclosure url="https://ivovazquez.github.io/central-deportivo/audios-y-rss/audios/s01e01-centraldep.mp3" length="30552832" type="audio/mpeg"/>
+            <enclosure url="https://gen-fm.github.io/centro-deportivo/audios-y-rss/audios/s01e01-centraldep.mp3" length="30552832" type="audio/mpeg"/>
 
             <image>
                 <title>Entrevista a Leonardo Bigi</title>
-                <url>https://ivovazquez.github.io/central-deportivo/audios-y-rss/audios/s01e01-centraldep.png</url>
-                <link>https://ivovazquez.github.io/central-deportivo/audios-y-rss/audios/s01e01-centraldep.png</link>
+                <url>https://gen-fm.github.io/centro-deportivo/audios-y-rss/audios/s01e01-centraldep.png</url>
+                <link>https://gen-fm.github.io/centro-deportivo/audios-y-rss/audios/s01e01-centraldep.png</link>
             </image>
 
         </item>
