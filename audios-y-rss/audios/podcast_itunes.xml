@@ -19,7 +19,7 @@
         
         <language>es-ar</language>
         <ttl>1440</ttl>
-        <lastBuildDate>Wed, 03 Apr 2019 21:27:27 +0300</lastBuildDate>
+        <lastBuildDate>Wed, 08 May 2019 21:21:26 +0300</lastBuildDate>
 
         <image>
             <title>Centro Deportivo</title>
@@ -51,6 +51,23 @@
             <enclosure url="https://gen-fm.github.io/centro-deportivo/audios-y-rss/audios/s01e01-centraldep.mp3" length="30552832" type="audio/mpeg"/>
 
             <itunes:image href="https://gen-fm.github.io/centro-deportivo/audios-y-rss/audios/s01e01-centraldep.png" />
+
+        </item>
+        
+        <item>
+            <title>Entrevista a Rubén Bustos</title>
+            <guid>https://gen-fm.github.io/centro-deportivo/audios-y-rss/s01e02-centraldep.html</guid>
+            <link>https://gen-fm.github.io/centro-deportivo/audios-y-rss/s01e02-centraldep.html</link>
+            <pubDate>Fri, 22 Mar 2019 19:00:00 +0300</pubDate>
+            <description><![CDATA[Su relación con la Natación lo llevó a tener una trayectoria de más de 30 años ligado a la especialidad. Fue representante de distintas federaciones en competencias sudamericanas, panamericanas y mundiales. Durante su mandato fue una etapa gloriosa de la Natación Cordobesa, con exponentes como José Meolans y Georgina Bardach.
+            <br />Ideas: <ul>
+            </ul>]]>
+            </description>
+            <itunes:summary>Su relación con la Natación lo llevó a tener una trayectoria de más de 30 años ligado a la especialidad. Fue representante de distintas federaciones en competencias sudamericanas, panamericanas y mundiales. Durante su mandato fue una etapa gloriosa de la Natación Cordobesa, con exponentes como José Meolans y Georgina Bardach.</itunes:summary>
+            
+            <enclosure url="https://gen-fm.github.io/centro-deportivo/audios-y-rss/audios/s01e02-centraldep.mp3" length="27864012" type="audio/mpeg"/>
+
+            <itunes:image href="https://gen-fm.github.io/centro-deportivo/audios-y-rss/audios/s01e02-centraldep.png" />
 
         </item>
         
