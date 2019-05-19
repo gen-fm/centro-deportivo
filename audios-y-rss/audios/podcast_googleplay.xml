@@ -46,5 +46,19 @@
 			<pubDate>Fri, 22 Mar 2019 19:00:00 +0300</pubDate>
 		</item>
         
+        <item>
+			<title>Georgina Bardach</title>
+			<googleplay:description><![CDATA[En la segunda entrega, Miguel Vera dialogó con Georgina Bardach, medallista olímpica y representante mundialista de la natación cordobesa y argentina.
+            <br />Ideas: <ul>
+            </ul>]]>
+			 </googleplay:description>
+			<googleplay:author>Gen Podcast</googleplay:author>
+			<googleplay:image href='https://gen-fm.github.io/centro-deportivo/audios-y-rss/audios/s01e03-centraldep.png'/>
+			<googleplay:explicit>No</googleplay:explicit>
+            <enclosure url="https://gen-fm.github.io/centro-deportivo/audios-y-rss/audios/s01e03-centraldep.mp3" length="24668935" type="audio/x-mp3"/>
+			<guid>https://gen-fm.github.io/centro-deportivo/audios-y-rss/s01e03-centraldep.html</guid>
+			<pubDate>Fri, 22 Mar 2019 19:00:00 +0300</pubDate>
+		</item>
+        
 	</channel>
 </rss>

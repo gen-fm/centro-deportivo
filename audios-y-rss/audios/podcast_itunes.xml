@@ -19,7 +19,7 @@
         
         <language>es-ar</language>
         <ttl>1440</ttl>
-        <lastBuildDate>Wed, 08 May 2019 21:21:26 +0300</lastBuildDate>
+        <lastBuildDate>Sun, 19 May 2019 17:18:39 +0300</lastBuildDate>
 
         <image>
             <title>Centro Deportivo</title>
@@ -68,6 +68,23 @@
             <enclosure url="https://gen-fm.github.io/centro-deportivo/audios-y-rss/audios/s01e02-centraldep.mp3" length="27864012" type="audio/mpeg"/>
 
             <itunes:image href="https://gen-fm.github.io/centro-deportivo/audios-y-rss/audios/s01e02-centraldep.png" />
+
+        </item>
+        
+        <item>
+            <title>Georgina Bardach</title>
+            <guid>https://gen-fm.github.io/centro-deportivo/audios-y-rss/s01e03-centraldep.html</guid>
+            <link>https://gen-fm.github.io/centro-deportivo/audios-y-rss/s01e03-centraldep.html</link>
+            <pubDate>Fri, 22 Mar 2019 19:00:00 +0300</pubDate>
+            <description><![CDATA[En la segunda entrega, Miguel Vera dialogó con Georgina Bardach, medallista olímpica y representante mundialista de la natación cordobesa y argentina.
+            <br />Ideas: <ul>
+            </ul>]]>
+            </description>
+            <itunes:summary>En la segunda entrega, Miguel Vera dialogó con Georgina Bardach, medallista olímpica y representante mundialista de la natación cordobesa y argentina.</itunes:summary>
+            
+            <enclosure url="https://gen-fm.github.io/centro-deportivo/audios-y-rss/audios/s01e03-centraldep.mp3" length="24668935" type="audio/mpeg"/>
+
+            <itunes:image href="https://gen-fm.github.io/centro-deportivo/audios-y-rss/audios/s01e03-centraldep.png" />
 
         </item>
         
